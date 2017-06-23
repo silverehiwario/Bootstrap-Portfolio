@@ -1,0 +1,71 @@
+.row {     
+	margin: 20px;
+	 }
+
+#men{
+	width: 100%;
+	height: 100%;
+	background-color: #ECF0F1;
+}
+
+
+.col-md-8 {
+   background-color: #fff;
+
+	height: 487px;
+}
+
+h3, h4, .panel-title {
+	color: #1bb7aa;
+}
+
+.panel-title{
+	border: 1px;
+}
+
+
+.name-top{
+	color: #fff;
+}
+
+ 
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #7F8C8D;
+    border-top: 5px solid #1F618D;
+
+}
+
+
+
+
+@media screen  and (max-width: 768px) {
+  
+
+
+[class*="col-sm col-xs"] {
+  width: 100%;}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 640px) {
+  
+
+
